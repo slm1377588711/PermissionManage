@@ -1,0 +1,22 @@
+.layout-panel-south .panel-title{
+	text-align:center;
+}
+.bdyc-north-logo{
+	float:left;
+}
+.bdyc-north-info{
+	float:right;
+}
+.bdyc-north-info{
+	line-height:50px;
+	padding-right:30px;
+}
+.bdyc-north-info a{
+	text-decoration: none;
+	color:#666;
+	font-size:14px;
+}
+.bdyc-north-info a:hover{
+	color:#f30;
+	text-decoration: underline;
+}
